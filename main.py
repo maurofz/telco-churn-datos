@@ -32,7 +32,7 @@ def instalar_dependencias():
     print("Todas las dependencias instaladas correctamente.\n")
 
 
-# instalar_dependencias()
+instalar_dependencias()
 
 # ─── IMPORTACIONES ────────────────────────────────────────────────────────────
 import os
